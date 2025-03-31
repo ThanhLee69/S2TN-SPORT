@@ -13,8 +13,13 @@ Authentication: JWT (JSON Web Token)
 
 🎯 Tính năng chính:
 ✅ Hiển thị danh sách sản phẩm theo danh mục
+
 ✅ Tìm kiếm và lọc sản phẩm theo giá, đội bóng,...
+
 ✅ Giỏ hàng và thanh toán đơn hàng
+
 ✅ Bán hàng online và tại quầy
+
 ✅ Quản lý người dùng, đơn hàng, khuyến mại, sản phẩm,...
+
 ✅ Đăng nhập/đăng ký với JWT Authentication
