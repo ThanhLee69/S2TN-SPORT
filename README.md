@@ -1,6 +1,6 @@
 S2TN-SPORT ⚽
-🚀 Mô tả:
-S2TN-SPORT là một nền tảng thương mại điện tử chuyên bán quần áo bóng đá, bao gồm áo đấu của các câu lạc bộ, đội tuyển quốc gia và phụ kiện bóng đá. Người dùng có thể duyệt sản phẩm, đặt hàng và thanh toán trực tuyến một cách dễ dàng.
+
+🚀 Mô tả: S2TN-SPORT là một nền tảng thương mại điện tử chuyên bán quần áo bóng đá, bao gồm áo đấu của các câu lạc bộ, đội tuyển quốc gia và phụ kiện bóng đá. Người dùng có thể duyệt sản phẩm, đặt hàng và thanh toán trực tuyến một cách dễ dàng.
 
 🛠 Công nghệ sử dụng:
 Backend: Java Spring Boot (REST API, Spring Security, Spring Data JPA)
